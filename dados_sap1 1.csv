@@ -1,0 +1,6 @@
+ID,Centro de Custo,Valor,Data,Descrição
+1,FIN001,4500.0,2024-10-01,Compra de material
+2,ADM002,-200.0,2024-10-02,Reembolso incorreto
+3,FIN001,0.0,2024-10-03,Teste de validação
+4,,1500.0,2024-10-04,Sem centro de custo
+5,LOG003,2500.0,2024-10-05,Pagamento aprovado
